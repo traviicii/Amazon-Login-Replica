@@ -24,7 +24,7 @@ body {
   
   .loginbox {  display: grid;
     grid-template-columns: 0.2fr 1fr 0.2fr;
-    grid-template-rows: .5fr .5fr 1fr 1fr 1fr 2fr .5fr;
+    grid-template-rows: .1fr .5fr 1fr 1fr 1fr 2fr .5fr;
     gap: 0px 0px;
     grid-auto-flow: row;
     grid-template-areas:
