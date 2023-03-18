@@ -9,6 +9,11 @@ body {
     justify-content: center;   
 }
 
+a {
+    text-decoration: none;
+    color: rgb(104,162,249);
+}
+
 #image1 {
     display: flex;
     justify-content: center;

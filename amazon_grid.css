@@ -50,6 +50,11 @@ body {
 
   .signinbutton { grid-area: signinbutton;}
 
+  a {
+    text-decoration: none;
+    color: rgb(104,162,249);
+}
+
   #button1 {
     width: 100%;
     background: linear-gradient(rgb(242,221,166), rgb(233,198,105));
